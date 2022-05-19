@@ -1,0 +1,54 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey,Mouser
+1,Antenna,Antenna,AE1,2450AT42B100,2450AT42B100,1,~,712-1008-1-ND‎,
+2,Unpolarized capacitor,C,C11 C15 C17 C20 C22 C23 C25 C26 C27 C28 C29,0.1uF,C_0402_1005Metric,11,~,490-6328-1-ND,
+3,Unpolarized capacitor,C,C10,10nF,C_0402_1005Metric,1,~,1276-1051-1-ND,
+4,Unpolarized capacitor,C,C1 C2 C4,10uF,C_0603_1608Metric,3,~,478-10766-2-ND,
+5,Unpolarized capacitor,C,C30 C31,12pF,C_0402_1005Metric,2,~,490-5924-2-ND,
+6,Unpolarized capacitor,C,C19,1nF,C_0402_1005Metric,1,~,478-1101-1-ND,
+7,Unpolarized capacitor,C,C3 C5 C14 C16 C18 C24,1uF,C_0402_1005Metric,6,~,399-4873-1-ND,
+8,Unpolarized capacitor,C,C21,1uF,C_0603_1608Metric,1,~,399-7847-2-ND,
+9,Unpolarized capacitor,C,C7 C12,2.2uF,C_0402_1005Metric,2,~,1276-1781-2-ND,
+10,Unpolarized capacitor,C,C13,22uF,C_0603_1608Metric,1,~,1276-1193-2-ND,
+11,Unpolarized capacitor,C,C6,4.7uF,C_0402_1005Metric,1,~,1276-1484-2-ND,
+12,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN4 CN5,0.1uF,0508_array,2,~,478-7584-2-ND,
+13,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN2 CN3,1000pF,0508_array,2,~,478-13177-2-ND,
+14,"4 capacitor network, parallel topology, DIP package",C_Pack04,CN1,4700pF,0612_array,1,~,399-CA064X473K4RACTUTR-ND,
+15,Light emitting diode,LED,D1 D2,LED,LED_0402_1005Metric,2,~,VLMB1500-GS08CT-ND VLMO1500-GS08CT-ND,
+16,Ferrite bead,Ferrite_Bead,FB1,Ferrite_Bead,C_0603_1608Metric,1,~,490-5216-2-ND,
+17,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08_Female,J1 J2,Biopotentials,ESLO_IO_8_1-27,2,~,ED8250-ND ED90570-ND,
+18,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J3,Conn_01x02_Female,ESLO_2pin_THERM,1,~,,
+19,Inductor,L,L3,1.5nH,L_0402_1005Metric,1,~,334-1083-2-ND,
+20,Inductor,L,L1,2.2uH,L_0805_2012Metric,1,~,490-4994-2-ND,
+21,Inductor,L,L4,3.3nH,L_0402_1005Metric,1,~,712-1416-1-ND,
+22,"Net tie, 2 pins",Net-Tie_2,NT1,Net-Tie_2,NetTie-2_SMD_Pad0.5mm,1,~,,
+23,Resistor,R,R1 R2 R3 R8,100k,LED_0402_1005Metric,4,~,311-100KLRCT-ND,
+24,Resistor,R,R4,21.5k,R_0402_1005Metric,1,~,RMCF0402FT21K5CT-ND,
+25,Resistor,R,R5,80.6k,R_0402_1005Metric,1,~,RMCF0402FT80K6CT-ND,
+26,"4 resistor network, parallel topology, DIP package",R_Pack04,RN3 RN4,1M,0502_array,2,~,Y6105CT-ND,
+27,"4 resistor network, parallel topology, DIP package",R_Pack04,RN1 RN2,4.7k,0502_array,2,~,Y6472CT-ND,
+28,,2450BM14G0011,U10,2450BM14G0011,2450BM14G0011,1,,712-1620-1-ND,
+29,,ADS1294,U9,ADS1294,BGA-64_8x8_8.0x8.0mm_ADS129x,1,,296-28024-1-ND,
+30,,IS37SML01G1,U7,AS5F18G04SND-10LIN,8x6mm_WSON_UTSO,1,,1450-AS5F18G04SND-10LIN-ND,340-319932-REEL
+31,,CC2652RB,U8,CC2652R1FRGZT,QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm,1,,,595-CC2652R1FRGZR
+32,"I2C/SPI, iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope",LSM6DS3,U3,LSM6DSOXTR,LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y,1,www.st.com/resource/en/datasheet/lsm6ds3.pdf,497-18367-2-ND,
+33,,MAX1720,U1,MAX1720,SOT-23-6,1,,MAX1720EUTGOSCT-ND,
+34,,TPS62243_WSON,U4,TPS62243_WSON,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,,296-46476-1-ND,
+35,,TPS723_WSON,U6,TPS72301DRVR,WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm,1,,296-TPS72301DRVRTR-ND,
+36,,TPS7A20_X2SON,U2,TPS7A2015PDQNR,Texas_X2SON-4_1x1mm_P0.65mm,1,,296-TPS7A2015PDQNRTR-ND,
+37,Two pin crystal,Crystal,Y2,32.768kHz,Crystal_SMD_2012-2Pin_2.0x1.2mm,1,~,SER4081TR-ND,
+38,"Four pin crystal, GND on pins 2 and 4",Crystal_GND24,Y1,48MHz,Crystal_SMD_2016-4Pin_2.0x1.6mm,1,~,535-13927-2-ND,
+
+
+
+
+
+Component Groups:,38
+Component Count:,66
+Fitted Components:,66
+Number of PCBs:,1
+Total components:,66
+Schematic Version:,
+Schematic Date:,
+BoM Date:,"Tuesday, June 01, 2021 at 11:29:35 AM"
+Schematic Source:,/Users/matt/Box Sync/Biologging/Technology/ESLO_RB2/ESLO_RB2.sch
+KiCad Version:,Eeschema (5.1.5-0-10_14)

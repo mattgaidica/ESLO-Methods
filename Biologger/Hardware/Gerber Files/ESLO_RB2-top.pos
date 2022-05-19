@@ -1,0 +1,39 @@
+### Module positions - created on Sunday, June 20, 2021 at 10:03:29 PM ###
+### Printed by Pcbnew version kicad (5.1.5-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                      PosX       PosY       Rot  Side
+C1        10uF                C_0603_1608Metric                        207.6000   -85.6875   90.0000  top
+C2        10uF                C_0603_1608Metric                        223.6875   -89.7000    0.0000  top
+C5        1uF                 C_0402_1005Metric                        223.6150   -87.2000  180.0000  top
+C6        4.7uF               C_0402_1005Metric                        210.5400   -88.7500    0.0000  top
+C7        2.2uF               C_0402_1005Metric                        207.4000   -90.8000    0.0000  top
+C11       0.1uF               C_0402_1005Metric                        223.1150   -91.9000    0.0000  top
+C17       0.1uF               C_0402_1005Metric                        221.1000   -91.9000    0.0000  top
+C20       0.1uF               C_0402_1005Metric                        223.5850   -86.1000  180.0000  top
+C21       1uF                 C_0603_1608Metric                        210.0000   -90.1000    0.0000  top
+C22       0.1uF               C_0402_1005Metric                        220.5050   -81.9600    0.0000  top
+C25       0.1uF               C_0402_1005Metric                        221.1000   -86.1000    0.0000  top
+C26       0.1uF               C_0402_1005Metric                        210.5500   -87.6000  180.0000  top
+C28       0.1uF               C_0402_1005Metric                        211.2150   -81.3000  180.0000  top
+C29       0.1uF               C_0402_1005Metric                        221.1000   -87.2000    0.0000  top
+C30       12pF                C_0402_1005Metric                        213.4650   -81.0250  180.0000  top
+C31       12pF                C_0402_1005Metric                        213.4650   -82.0750  180.0000  top
+D1        LED                 LED_0402_1005Metric                      222.1150   -93.4500  180.0000  top
+D2        LED                 LED_0402_1005Metric                      222.1150   -94.5500  180.0000  top
+FB1       Ferrite_Bead        C_0603_1608Metric                        209.9625   -86.2000    0.0000  top
+L1        2.2uH               L_0805_2012Metric                        207.7625   -88.3000    0.0000  top
+L3        1.5nH               L_0402_1005Metric                        216.2150   -79.6750  180.0000  top
+L4        3.3nH               L_0402_1005Metric                        217.8000   -79.1850   90.0000  top
+R1        100k                LED_0402_1005Metric                      221.0850   -88.3000  180.0000  top
+R2        100k                LED_0402_1005Metric                      223.1150   -88.3000    0.0000  top
+R3        100k                LED_0402_1005Metric                      221.0850   -90.5000  180.0000  top
+R8        100k                LED_0402_1005Metric                      221.1000   -89.4000  180.0000  top
+U3        LSM6DSOXTR          LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y   209.3625   -92.9000  180.0000  top
+U4        TPS62243_WSON       WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm       210.0000   -83.6250   90.0000  top
+U7        AS5F18G04SND-10LIN  8x6mm_WSON_UTSO                          215.7000   -94.4050  270.0000  top
+U8        CC2652R1FRGZT       QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm    215.8000   -86.8000  270.0000  top
+U10       2450BM14G0011       2450BM14G0011                            218.2900   -81.2000  270.0000  top
+Y1        48MHz               Crystal_SMD_2016-4Pin_2.0x1.6mm          221.6000   -84.0500   90.0000  top
+Y2        32.768kHz           Crystal_SMD_2012-2Pin_2.0x1.2mm          215.9000   -81.6500  180.0000  top
+## End
